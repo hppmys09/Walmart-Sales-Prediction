@@ -1,4 +1,4 @@
-DATA SCIENCE PROJECT
+DATA SCIENCE PROJECT(taken from ph080 ,another repository of hppmys09)
 
 WALMART SALES FORECASTING DATA SET :
 
